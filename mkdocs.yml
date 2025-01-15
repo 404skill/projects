@@ -1,0 +1,58 @@
+site_name: "404SkillProjects"
+site_description: "Projects for 404skill"
+site_author: "Eliran Turgeman"
+site_url: "https://404skill.github.io/projects"
+
+# Repository Link
+repo_name: "Projects"
+repo_url: "https://github.com/404skill/projects"
+
+# Theme
+theme:
+  name: "material"
+  language: "en"
+  features:
+    - navigation.tabs
+    - navigation.to
+  palette:
+    - scheme: slate
+      primary: "black"
+      accent: "red"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: "black"
+      accent: "red"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  # Enable icons for better visuals
+  icon:
+    repo: fontawesome/brands/github  # Add GitHub icon to the top-right
+
+  # Features like "next/prev" navigation
+  features:
+    - navigation.top
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
+
+# Navigation (sidebar)
+nav:
+  - Home: index.md
+
+# Markdown Extensions
+markdown_extensions:
+  - toc:  # Table of contents for long pages
+      permalink: True
+  - footnotes
+  - admonition  # Allows note and warning blocks
+  - def_list  # Definition lists support
+  - pymdownx.highlight  # Syntax highlighting for code blocks
+  - pymdownx.superfences  # Multi-line code block support
+
+# Plugins
+plugins:
+  - search  # Built-in search
