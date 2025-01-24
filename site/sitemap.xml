@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://404skill.github.io/projects/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/overview/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/scooter_rentals/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/add_new_item_cds/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/borrowing_and_returning/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/creating_items/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/overview/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/promotion_system/</loc>
+         <lastmod>2025-01-24</lastmod>
+    </url>
+    <url>
+         <loc>https://404skill.github.io/projects/projects/library_management/storing_users/</loc>
+         <lastmod>2025-01-24</lastmod>
     </url>
 </urlset>
